@@ -1,3 +1,19 @@
 h1{
     color:red;
 }
+
+#Heading2{
+    color: rgb(42, 6, 248);
+}
+
+.x{
+  color: rgb(31, 128, 99); 
+}
+
+.para{
+    border: 2px;
+    color: rgb(0, 0, 0);
+    border-style: dotted;
+    padding: 20px;
+    text-align: center;
+}
