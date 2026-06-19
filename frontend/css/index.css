@@ -1,19 +1,39 @@
 h1{
-    color:red;
+    color:rgb(96, 137, 249);
 }
 
 #Heading2{
-    color: rgb(42, 6, 248);
+    color: rgb(207, 32, 255);
 }
 
 .x{
-  color: rgb(31, 128, 99); 
+  color: rgb(92, 0, 103); 
 }
 
 .para{
     border: 2px;
-    color: rgb(0, 0, 0);
+    color: rgb(89, 13, 13);
     border-style: dotted;
     padding: 20px;
     text-align: center;
+}
+.nav{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(214, 142, 242);
+    padding: 15px;
+    background-color: rgb(223, 207, 241);
+    text-align: center;
+}
+.nav a{
+    color: purple;
+    padding: 15px;
+    text-decoration: none;
+}
+.nav a:hover{
+    background-color:pink;
+    color: beige;
+}
+body{
+    margin: 0px;
 }
